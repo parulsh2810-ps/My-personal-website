@@ -1,0 +1,13 @@
+*{
+    color: white;
+    background-color: black;
+}
+
+
+
+
+#one{
+    border-radius: 50%;
+    width: 100px;
+    border: solid;
+}
